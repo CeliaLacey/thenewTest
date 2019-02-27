@@ -1,17 +1,17 @@
 ---
 title: Disadvantages of Smartphones
 date: 2018-08-29 10:50:00
-category: Define Smartphone
+category: pros & cons
 photos: /css/images/2.jpg
 ---
 
 Nielsen estimated that simply by Christmas of 2011, about 50 % of People in America would own a smartphone. And just why not? They're easy and offer you with on-the-go information, programs that help manage public mass media accounts, appointment reminders, Net connectivity for world wide web browsing and music. Smartphones contain changed just how people receive information. But also for all they deliver in the form of convenience, they also include some notable drawbacks.
 
-<!-- more -->
-
 # Cost
 
 Arguably the largest disadvantage of a smartphone is its expense compared to standard mobile phones. A smartphone costs considerably more in advance -- on the order of a couple of hundred dollars, versus less than about a third of this cost for a typical phone. Smartphones additionally require expensive data strategies, which most standard cell phones do not, producing your payment significantly more expensive.
+
+<!-- more -->
 
 # Security
 

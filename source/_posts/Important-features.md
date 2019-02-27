@@ -1,13 +1,11 @@
 ---
 title: Important Feature
 date: 2018-08-17 08:51:00
-category: More or Less Smartphone Feature
+category: the features
 photos: /css/images/3.jpg
 ---
 
 One of the most crucial features of a good smartphone is its link with an app store. An app retailer is definitely a centralized portal where users can search for and download applications to run on their phones. A typical Iphone app store offers a large number of mobile software for productivity, gaming, expression processing, note-taking, organization, cultural media and more.
-
-<!-- more -->
 
 The following are a few of the other key top features of a smartphone:
 
@@ -27,6 +25,8 @@ The following are a few of the other key top features of a smartphone:
  + unified messaging; and
  + GPS -- global positioning system.
  + A smartphone also offers the ability to support gadgets, including Bluetooth headphones, electric power charging cables and further speakers. As a result of fragile external casing of all smartphones, users often as well purchase display screen protectors and stronger situations in which to place their phones.
+ 
+<!-- more -->
 
 Because they go an OS and applications, smartphones get steady software updates. Vendors update their cellular OSes several times a year, and individual mobile software in an app store see continuous software improvements that users can either decide to install or ignore.
 

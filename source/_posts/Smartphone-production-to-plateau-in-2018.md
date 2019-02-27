@@ -1,13 +1,11 @@
 ---
 title: Smartphone Production to Plateau in 2018
 date: 2018-07-25 15:12:00
-category: More or Less Smartphone Feature
+category: the features
 photos: /css/images/4.jpg
 ---
  
 After a bumper year, driven chiefly by growth in the Chinese promote, smartphone production will begin to slow in 2018, according to analysts at TrendForce.
-
-<!-- more -->
 
 Global smartphone production is defined to slow this season as the industry faces saturation on high-growth markets and growing component costs, in respect to research from Taiwan-established analysts TrendForce.
 
@@ -16,6 +14,8 @@ While around 1.46 billion units were produced in 2017, a rise of 6.5% year-on-ye
 Last year's good momentum was driven chiefly by large subsidies in 4G regular fees directed at users by Chinese mobile network operators (MNOs). Even so, this growth will prove unsustainable in 2018, stated TrendForce, and the days of double-digit progress in unit production are probably long gone.
 
 "Chinese smartphone brands possess gained amazing expansion in earlier years because of strong domestic consumption", said the report.
+
+<!-- more -->
 
 But as the penetration rate of smartphone goes saturated in China's existing marketplace, both existing makes and start-ups flip to emerging overseas market and overseas telecommunication operators to preserve their market shares.
 

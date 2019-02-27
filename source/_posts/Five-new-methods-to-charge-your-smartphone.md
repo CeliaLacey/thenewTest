@@ -1,19 +1,19 @@
 ---
 title: Five new methods to charge your smartphone
 date: 2018-08-27 07:32:00
-category: Inspect Gadget
+category: inspect gadget
 photos: /css/images/7.jpg
 ---
 
 That is a guest blog-post by Gamil Jassin, a journalism Masters degree student at Metropolis, University of London.
-
-<!-- more -->
 
 We all moan and groan about how precisely bad the battery lifestyle on our cell phones is. Then, we hold moaning when Apple slows it down slightly to make the battery last longer.
 
 Pubs in the united kingdom experience stopped charging our phones, because they state it is a risk of security and wireless chargers are difficult to find and aren't themselves Wi-Fi which is, good, stupid.
 
 So, listed below are five quirky answers to these problems in 2018.
+
+<!-- more -->
 
 # Attachable coat heater and power bank
 

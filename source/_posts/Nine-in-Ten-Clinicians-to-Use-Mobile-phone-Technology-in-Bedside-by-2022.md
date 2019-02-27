@@ -1,17 +1,17 @@
 ---
 title: Nine in Ten Clinicians to Use Mobile phone Technology in Bedside by 2022
 date: 2018-08-01 13:45:00
-category: Smartphone Healthcare Service
+category: healthcare service
 photos: /css/images/6.jpg
 ---
 
 Global survey finds improvement in quality of affected individual care and lowered medication administration errors cited among envisioned benefits.
 
-<!-- more -->
-
 January 31, 2018 - Zebra Systems Corp. announced the benefits of its Potential of Healthcare: 2022 Medical center Vision Research, revealing the effects of mobile technology work with in acute attention hospitals. The research - which incorporates responses from nursing managers, it (IT) decision-makers and clients - has a perspective from the front-line of patient health care. In addition, it highlights the transformational ability clinical mobility is usually expected to have on global well being services within the next five years.
 
 Zebra's 2022 Hospital Perspective Study identified the growing adoption of clinical flexibility - the usage of mobile units such as for example hand-held mobile computers, tablets, cordless barcode scanners and mobile phone printers -  in hospitals all over the world. Seventy-two percent of surveyed decision-manufacturers say that cellular devices are improving the quality of patient treatment, giving clinicians actionable cleverness at the bedside with the effect of increasing period with clients and reducing errors.
+
+<!-- more -->
 
 The benefits associated with clinical mobility are fuelling a rise in adoption of mobile technologies at every level of care, according to Zebra. According to survey respondents, practically all hospitals estimate that cellular devices will be used at the bedside by nurses (97 percent) and doctors (98 percent) by 2022, but also increasingly by various other members of the treatment team such as for example pharmacists, lab technicians, radiologists and person transport professionals. The analysis also highlighted how clients perceive the climb of clinical flexibility with nearly eight-in-ten survey respondents feeling positive about mobile equipment being used to improve their care.
 

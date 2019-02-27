@@ -1,19 +1,19 @@
 ---
 title: What Are Some Great Benefits of Smartphone Technology
 date: 2018-07-15 07:00:00
-category: Define Smartphone
+category: pros & cons
 photos: /css/images/1.jpg
 ---
 
 A smartphone is a cellular phone with a built-in computer and other features not originally associated with telephones, such as an operating system, world wide web browsing and the capability to run software applications.
-
-<!-- more -->
 
 The first smartphone was IBM's Simon, that was presented as an idea device -- instead of a consumer gadget -- at the 1992 COMDEX computer trade show. It was capable of sending email messages and faxes, together with keeping a calendar of incidents for the user, instead of simply making telephone calls and sending messages.
 
 Consumer smartphones evolved from personal digital assistants (PDAs) around the flip of the 21st century when devices like the PalmPilot began to add wireless connectivity. Several makers, incorporating Nokia and Hewlett Packard, released units in 1996 which were combinations of PDAs and usual cellphones that included early on OS's (OSes) and world wide web browsing functions. BlackBerry released its primary smartphones in the mid-2000s, and they became extremely popular with consumers and in the business.
 
 Many of these early on smartphones featured physical keyboards.
+
+<!-- more -->
 
 In 2007, LG released the Prada and Apple released the iPhone, the first of all smartphones to include a touch-screen. HTC introduced its Fantasy smartphone a season later, which was the first ever to involve Google's Android OS.
 

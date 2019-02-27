@@ -1,15 +1,15 @@
 ---
 title: How Smartphones and Apps May Change the facial skin of Healthcare
 date: 2018-08-21 09:00:00
-category: Smartphone Healthcare Service
+category: healthcare service
 photos: /css/images/5.jpg
 ---
  
 The proliferation of smartphones in the pockets of most patients and clinicians may give a common link between for true patient engagement.
 
-<!-- more -->
-
 The ubiquitous smartphone has found its way into the pockets of nearly every clinician and patient recently and offers new opportunities to greatly redefine healthcare in the coming years. Smartphones and software for healthcare - known as mobile overall health or mHealth - give you a key technology in reducing healthcare costs, increase the efficiency of health care delivery and allow greater usage of high-quality care via telemedicine. mHealth can serve as a bridge between service providers, healthcare IT and individuals to enable true sufferer engagement. These tools also can help empower clients to take considerably more responsibility for his or her own health and provide capability to interface and collaborate extra with their providers. 
+
+<!-- more -->
 
 There are now about 165,000 published mHealth software available,[1] and the U.S. Foodstuff and Drug Administration (FDA) lately developed guidelines for regulating the small fraction of these clinical-quality apps. Today, these programs enable patients to employ their phones to track their fitness, record calorie and diet plan information, heart rate and single lead ECGs, enter medication reminder alarms, manage diabetes, and even gain access to their lab results, reports and imaging from their digital medical records (EMR). Proponents of mHealth claim this is just the tip of the iceberg for the potential of apps and cellular devices to impact the continuing future of healthcare. 
 

@@ -5,10 +5,12 @@
 # Header Menu
 menu:
   Home: /
-  Archives: archives
-  Categories: categories
-  About: about
-  Gallery: gallery
+  About Us: about/
+  Pros Cons: categories/pros-cons/
+  Inspect Gadget: categories/inspect-gadget/
+  Feature: categories/the-features/
+  Android: categories/android/
+  Healthcare Service: categories/healthcare-service/
 rss: /atom.xml
 
 since: 2013

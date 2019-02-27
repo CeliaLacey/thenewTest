@@ -1,19 +1,19 @@
 ---
 title: What's New on Android Oreo
 date: 2018-07-10 09:20:00
-category: OK Google
+category: android
 photos: /css/images/8.jpg
 ---
 
 Google announces Android Oreo with refined notifications, better battery pack lifestyle, updated emoji and the biggest transformation to the foundations of Android to date.
-
-<!-- more -->
 
 Google offers opened the packet on release 8.0 of its Android operating-system for mobile devices. Oreo succeeds Nougat and Marshmallow, and follows a long-line of candy-themed Android releases.
 
 Timed to coincide with the passing solar eclipse in the US - and prior to the announcement of another raft of Android smartphones from famous brands Samsung and Sony - Oreo brings a large number of enhancements to Google's mobile experience, yet all those expecting a cookie jar filled up with colourful different features could be disappointed.
 
 Nevertheless, beneath the covers is certainly what Google calls the most important change to the foundations of Android OS to date, promising additional users should be able to enjoy Oreo sooner, safer and for longer.
+
+<!-- more -->
 
 # What's New in Oreo?
 
